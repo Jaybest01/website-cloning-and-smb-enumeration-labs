@@ -40,7 +40,7 @@ SEToolkit menu selection
 # LAB 2 — SMB Vulnerability Scanning (Enum4Linux)
 - smb-enum4linux-lab/
 ## Objective
-- To identify SMB misconfigurations such as:
+To identify SMB misconfigurations such as:
  * User enumeration
  * Anonymous access
  * Exposed shares
@@ -89,5 +89,6 @@ This demonstrates file interaction within SMB shares, highlighting the risk of w
 - Proper security controls can prevent these attack vectors
 
 <br/>
+
 # Conclusion
 These labs provided hands-on experience with common penetration testing techniques used to identify and mitigate real-world security risks.
