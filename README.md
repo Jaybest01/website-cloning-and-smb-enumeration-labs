@@ -12,6 +12,25 @@ All activities were performed in a controlled lab environment for educational an
 All demonstrations were conducted on authorized lab machines.
 Unauthorized cloning, scanning, or exploitation of real-world systems is illegal and unethical.
 
+# LAB 1 — Website Cloning (SEToolkit)
+## Objective
+To demonstrate how attackers clone websites to harvest credentials and how this technique is studied for defensive awareness and penetration testing training.
+## Tools Used
+1. Kali Linux
+2. SEToolkit
+3. BeEF (Browser Exploitation Framework)
+## Commands Used
+sudo su
+setoolkit
+## SEToolkit Menu Navigation
+1) Social-Engineering Attacks
+2) Website Attack Vectors
+3) Credential Harvester Attack Method
+2) Site Cloner
+
+
+
+
 
 
 
