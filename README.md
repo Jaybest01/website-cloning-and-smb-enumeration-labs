@@ -30,10 +30,15 @@ SEToolkit copies the structure of a legitimate website and hosts it locally. Whe
 - sudo beef-xss
 BeEF was used to demonstrate browser-based exploitation techniques after the victim interacts with the cloned site.
 ## Screenshots 
-SEToolkit menu selection
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+- SEToolkit menu selection
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 - Cloned website loaded in browser
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 - Credential harvester output
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 - BeEF control panel
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 
 <br/>
 
