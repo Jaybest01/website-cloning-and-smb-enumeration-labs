@@ -53,11 +53,11 @@ To identify SMB misconfigurations such as:
 - enum4linux -help
 - nmap -sN 172.17.0.0/24
 ## SMB Enumeration Commands
-- enum4linux -U 172.17.0.2     # Enumerate users
-- enum4linux -S 172.17.0.2     # Enumerate shares
-- enum4linux -Sv 172.17.0.2    # Verbose share enumeration
-- enum4linux -P 172.17.0.2     # Password policy
-- enum4linux -a 172.17.0.2     # Aggressive scan (all checks)
+- enum4linux -U 172.17.0.2   -----------  # Enumerate users
+- enum4linux -S 172.17.0.2   -----------  # Enumerate shares
+- enum4linux -Sv 172.17.0.2  -----------  # Verbose share enumeration
+- enum4linux -P 172.17.0.2   -----------  # Password policy
+- enum4linux -a 172.17.0.2   -----------  # Aggressive scan (all checks)
 
 ## Findings
 The target system exposed SMB services that allowed:
