@@ -31,22 +31,10 @@ SEToolkit copies the structure of a legitimate website and hosts it locally. Whe
 BeEF was used to demonstrate browser-based exploitation techniques after the victim interacts with the cloned site.
 ## Screenshots 
 - SEToolkit Exploitation
-<img src="https://github.com/Jaybest01/website-cloning-and-smb-enumeration-labs/blob/main/Web-Exploit-Capture/sudo%20su.png" alt="Girl in a jacket" width="1000" height="1200">
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="https://github.com/Jaybest01/website-cloning-and-smb-enumeration-labs/blob/main/Web-Exploit-Capture/sudo%20su.png" alt="Girl in a jacket" width="1000" height="1200">,<img src="https://github.com/Jaybest01/website-cloning-and-smb-enumeration-labs/blob/main/Web-Exploit-Capture/setoolkit..png" alt="Girl in a jacket" width="1000" height="1200">,<img src="https://github.com/Jaybest01/website-cloning-and-smb-enumeration-labs/blob/main/Web-Exploit-Capture/setoolkit.png" alt="Girl in a jacket" width="1000" height="1200">,<img src="https://github.com/Jaybest01/website-cloning-and-smb-enumeration-labs/commit/9b3f765c03b0d4f16325d4f23a425f79bb13d6f3" alt="Girl in a jacket" width="1000" height="1200">,<img src="https://github.com/Jaybest01/website-cloning-and-smb-enumeration-labs/blob/main/Web-Exploit-Capture/3)%20credential%20Attack.png" alt="Girl in a jacket" width="1000" height="1200">,<img src="https://github.com/Jaybest01/website-cloning-and-smb-enumeration-labs/blob/main/Web-Exploit-Capture/3)%20credential%20Attack.png" alt="Girl in a jacket" width="1000" height="1200">,<img src="https://github.com/Jaybest01/website-cloning-and-smb-enumeration-labs/blob/main/Web-Exploit-Capture/2)%20site%20cloner.png" alt="Girl in a jacket" width="1000" height="1200">,<img src="https://github.com/Jaybest01/website-cloning-and-smb-enumeration-labs/blob/main/Web-Exploit-Capture/2)%20Website%20Attack.png" alt="Girl in a jacket" width="1000" height="1200">,<img src="https://github.com/Jaybest01/website-cloning-and-smb-enumeration-labs/blob/main/Web-Exploit-Capture/cloning%26listening.png" alt="Girl in a jacket" width="1000" height="1200">,<img src="https://github.com/Jaybest01/website-cloning-and-smb-enumeration-labs/blob/main/Web-Exploit-Capture/cloned.png" alt="Girl in a jacket" width="1000" height="1200">
 
 - BeEF control panel
-
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
-
+<img src="https://github.com/Jaybest01/website-cloning-and-smb-enumeration-labs/blob/main/Web-Exploit-Capture/beef-xss-%20credintial%20hervester.png" alt="Girl in a jacket" width="1000" height="1200">,<img src="https://github.com/Jaybest01/website-cloning-and-smb-enumeration-labs/blob/main/Web-Exploit-Capture/beef-xss-%20credintial%20hervester...png" alt="Girl in a jacket" width="1000" height="1200">,<img src="https://github.com/Jaybest01/website-cloning-and-smb-enumeration-labs/blob/main/Web-Exploit-Capture/wed%20credintial%20attack.png" alt="Girl in a jacket" width="1000" height="1200">,<img src="https://github.com/Jaybest01/website-cloning-and-smb-enumeration-labs/blob/main/Web-Exploit-Capture/website%20stolen%20credintial.png" alt="Girl in a jacket" width="1000" height="1200">
 
 <br/>
 
