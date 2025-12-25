@@ -40,6 +40,25 @@ BeEF was used to demonstrate browser-based exploitation techniques after the vic
 - BeEF control panel
 <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 
+<div class="multi-image"></div>
+.multi-image {
+  width: 300px;      /* width of the container */
+  height: 200px;     /* height of the container */
+  background-image: 
+    url('https://github.com/Jaybest01/website-cloning-and-smb-enumeration-labs/blob/main/Web-Exploit-Capture/sudo%20su.png'),
+    url('image2.png'),
+    url('image3.jpg');  /* multiple images separated by commas */
+  background-position: 
+    top left, 
+    center, 
+    bottom right;       /* position for each image */
+  background-repeat: no-repeat;
+  background-size: 
+    100px 100px,        /* size for image1 */
+    80px 80px,          /* size for image2 */
+    120px 120px;        /* size for image3 */
+}
+
 <br/>
 
 # LAB 2 — SMB Vulnerability Scanning (Enum4Linux)
