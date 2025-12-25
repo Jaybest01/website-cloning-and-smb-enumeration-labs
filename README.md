@@ -30,24 +30,20 @@ SEToolkit copies the structure of a legitimate website and hosts it locally. Whe
 - sudo beef-xss
 BeEF was used to demonstrate browser-based exploitation techniques after the victim interacts with the cloned site.
 ## Screenshots 
+- SEToolkit Exploitation
+<img src="https://github.com/Jaybest01/website-cloning-and-smb-enumeration-labs/blob/main/Web-Exploit-Capture/sudo%20su.png" alt="Girl in a jacket" width="1000" height="1200">
 <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
-- SEToolkit menu selection
 <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
-- Cloned website loaded in browser
 <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
-- Credential harvester output
 <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+
 - BeEF control panel
-<img src="https://github.com/Jaybest01/website-cloning-and-smb-enumeration-labs/blob/main/Web-Exploit-Capture/sudo%20su.png" alt="Girl in a jacket" width="500" height="600">
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+
 <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 
